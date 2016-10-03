@@ -1,0 +1,10 @@
+
+{
+    "partner": "bankofamerica",
+    "partnertype": "A",
+    "pages": "https://www.bankofamerica.com/credit-cards/cardoverview.action?context_id=overview_page",
+    "freq": "310000",
+    "cacheclear": "0",
+    "cookieclear": "0",
+    "exclusions": "(bankofamerica.com)"
+}

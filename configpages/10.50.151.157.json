@@ -1,0 +1,9 @@
+{
+        "partner": "icrossing",
+        "partnertype": "P",
+        "pages": "http://www.icrossing.com/about-icrossing-interactive-agency",
+        "freq": "310000",
+        "cacheclear": "0",
+        "cookieclear": "0",
+        "exclusions": "(www.icrossing.com|icrossing.com)"
+    }

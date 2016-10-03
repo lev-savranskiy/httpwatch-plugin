@@ -1,0 +1,10 @@
+{
+        "partner": "Rodale",
+        "partnertype": "A",
+        "pages": "bing.com,google.com,myspace.com",
+        "freq": "30000",
+        "cacheclear": "0",
+        "cookieclear": "0",
+        "exclusions": "(www.myspace.com|cms.myspacecdn.com|atdmt.com|abmr.net)"
+    }
+

@@ -1,0 +1,10 @@
+
+{
+    "partner": "Blu kai",
+    "partnertype": "P",
+    "pages": "menshealth.com,runnersworld.com,prevention.com",
+    "freq": "20000",
+    "cacheclear": "0",
+    "cookieclear": "0",
+    "exclusions": "(static.ak.fbcdn.net|runnersworld.com|youtube.com|redaril.com|inc.com|facebook.com|myspacecdn.com|myspace.com|bing.com|atdmt.com|abmr.net)"
+}

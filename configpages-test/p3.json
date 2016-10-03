@@ -1,0 +1,10 @@
+
+    {
+        "partner": "Greendale college",
+        "partnertype": "P",
+        "pages": "wap7.ru,runnersworld.com,prevention.com",
+        "freq": "40000",
+        "cacheclear": "0",
+        "cookieclear": "0",
+        "exclusions": "(static.ak.fbcdn.net|youtube.com|redaril.com|inc.com|facebook.com|myspacecdn.com|myspace.com|bing.com|atdmt.com|abmr.net)"
+    }
